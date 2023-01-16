@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a highly skilled and experienced software developer with a focus on creating performant and user-friendly web applications. I have extensive experience with technologies such as React, Next.js, TypeScript. I am always eager to learn new technologies and programming languages, currently my interest are GoLang and Python.
+I am a highly skilled and experienced software developer with a focus on creating performant and user-friendly web applications. I have extensive experience with technologies such as React, Next.js, TypeScript. I am always eager to learn new technologies and programming languages, currently my interest are GoLang and TypeScript.
 
 #### My Professional Experience
 - Developing and maintaining high-performing and user-friendly web applications using technologies such as React, Next.js, and TypeScript.
