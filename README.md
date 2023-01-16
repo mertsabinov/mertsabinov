@@ -6,7 +6,7 @@ I am a highly skilled and experienced software developer with a focus on creatin
 - Developing and maintaining high-performing and user-friendly web applications using technologies such as React, Next.js, and TypeScript.
 - Implementing modern web development best practices and following industry standards to deliver high-quality, production-ready code.
 - Collaborating with cross-functional teams to deliver projects on time and within budget.
-- Continuously learning and staying up-to-date with the latest technologies and programming languages, with a current focus on GoLang and Python.
+- Continuously learning and staying up-to-date with the latest technologies and programming languages, with a current focus on GoLang and TypeScript.
 - Strong educational background in Computer Science and relevant coursework and projects.
 - Strong problem-solving skills, attention to detail, and ability to work well under pressure.
 - Excellent communication and team collaboration skills.
