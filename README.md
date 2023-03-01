@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-I am a highly skilled and experienced software developer with a focus on creating performant and user-friendly web applications. I have extensive experience with technologies such as React, Next.js, TypeScript. I am always eager to learn new technologies and programming languages, currently my interest are GoLang and TypeScript.
-
-#### My Professional Experience
-- Developing and maintaining high-performing and user-friendly web applications using technologies such as React, Next.js, and TypeScript.
-- Implementing modern web development best practices and following industry standards to deliver high-quality, production-ready code.
-- Collaborating with cross-functional teams to deliver projects on time and within budget.
-- Continuously learning and staying up-to-date with the latest technologies and programming languages, with a current focus on GoLang and TypeScript.
-- Strong educational background in Computer Science and relevant coursework and projects.
-- Strong problem-solving skills, attention to detail, and ability to work well under pressure.
-- Excellent communication and team collaboration skills.
-- Proven ability to consistently deliver high-quality products and contribute to the success of the organization.
-
+I am a talented software developer focused on building performance and user-friendly web applications. I have experience in technologies such as React, Next.js, TypeScript. I am always eager to learn new technologies and programming languages, currently my interests are React and TypeScript.
 
 ## Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
