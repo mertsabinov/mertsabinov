@@ -15,9 +15,11 @@ I am a talented software developer focused on building performance and user-frie
 
 
 ## Selected Projects
+- [profilecard.co](http://profilecard.co/) - is a web application that allows users to create their own personal profile pages and share links such as social media accounts on these pages.
+
 - [mds-e-commerce](https://github.com/mertsabinov/mds-e-commerce) - E-commerce platform that brings sellers and buyers together at a single point
 
-- [profilecard.co](http://profilecard.co/) - is a web application that allows users to create their own personal profile pages and share links such as social media accounts on these pages.
+
 
 
 ## GitHub Statistics
